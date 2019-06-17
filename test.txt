@@ -6,7 +6,5 @@ My new test
 Second test
 
 
-5 commit
-
 
 New commit
